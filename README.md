@@ -1,23 +1,7 @@
-
-Linux | Python | Security
+Security | Python | Linux 
 
 Projects:
 
-- Log Analyzer
-- Linux Security Audit
-- IOC Scanner
-
-<!--
-**yugg755i/yugg755i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Log Analyzer](https://github.com/yugg755i/log-analyzer)
+- [Linux Security Audit](https://github.com/yugg755i/linux-security-audit)
+- [IOC Scanner](https://github.com/yugg755i/ioc-scanner)
