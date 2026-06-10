@@ -1,4 +1,11 @@
-## Hi there 👋
+
+Linux | Python | Security
+
+Projects:
+
+- Log Analyzer
+- Linux Security Audit
+- IOC Scanner
 
 <!--
 **yugg755i/yugg755i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
