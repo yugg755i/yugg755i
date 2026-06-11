@@ -1,7 +1,5 @@
-Security | Python | Linux 
+# Yug Sutariya
 
-Projects:
+Security | Python | Linux
 
-- [Log Analyzer](https://github.com/yugg755i/log-analyzer)
-- [Linux Security Audit](https://github.com/yugg755i/linux-security-audit)
-- [IOC Scanner](https://github.com/yugg755i/ioc-scanner)
+Interested in SOC, SIEMs, Linux, and security automation.
